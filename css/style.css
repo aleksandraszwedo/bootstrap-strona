@@ -230,8 +230,9 @@ h5 {
     line-height: 230px;
 }
 
-.small-containers > img {
+.small-containers > figure > img {
     border-radius: 50%;
+    width: 100%;
 }
 
 .socials > i {
